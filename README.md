@@ -1,2 +1,2 @@
 unmutes chromium for steam problem
-made gpt
+made with gpt
